@@ -10,7 +10,7 @@
 Summary:	A Python module to help you manage your bits
 Name:		python-%{pypi_name}
 Version:	3.1.5
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 Source0:	https://github.com/scott-griffiths/bitstring/archive/bitstring-%{version}.tar.gz
